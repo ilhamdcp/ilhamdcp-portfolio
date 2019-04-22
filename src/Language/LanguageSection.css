@@ -1,0 +1,16 @@
+.LanguageSection {
+    z-index: -2;
+}
+
+.Container {
+    width: 80%;
+    display: inline;
+}
+
+.languages {
+    padding: 10px;
+    background: rgb(38, 156, 117);
+    border-radius: 10px;
+    color: white;
+    width: fit-content;
+}
